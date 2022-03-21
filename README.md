@@ -4,7 +4,7 @@ This project is an example of a micro frontend using Module Feredation
 
 ## 💪 Motivation
 
-More and more front-end projects get bigger and complex, in 2016 I had a really cool experience with micro frontends, at that time it was not very common and our approach can be said that it was not the best possible but it worked very well. This project intend to be a simple and scalable boilerplate of a micro frontend, in it I used the [Module Federation](https://webpack.js.org/concepts/module-federation), to better understand I recommend accessing the following links:
+This project intend to be a simple and scalable boilerplate of a micro frontend, in it I used the [Module Federation](https://webpack.js.org/concepts/module-federation), to better understand I recommend accessing the following links:
 
 [What's?](https://github.com/sokra/slides/blob/master/content/ModuleFederationWebpack5.md)
 
@@ -18,7 +18,7 @@ After cloning the repository, you must run the command below at the root of the 
 yarn install-all
 ```
 
-> You need [Node.js](https://nodejs.org/en/download/) e [Yarn](https://yarnpkg.com/)
+> You need [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/)
 
 ## 🏃‍♂️Running
 
