@@ -2,8 +2,6 @@
 
 This project is an example of a micro frontend using Module Feredation
 
-[pt-br](https://github.com/pepoeverton/simple-micro-frontend/blob/master/README.pt-br.md)
-
 ## 💪 Motivation
 
 More and more front-end projects get bigger and complex, in 2016 I had a really cool experience with micro frontends, at that time it was not very common and our approach can be said that it was not the best possible but it worked very well. This project intend to be a simple and scalable boilerplate of a micro frontend, in it I used the [Module Federation](https://webpack.js.org/concepts/module-federation), to better understand I recommend accessing the following links:
