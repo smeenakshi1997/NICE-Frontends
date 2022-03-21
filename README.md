@@ -2,7 +2,7 @@
 
 This project is an example of a micro frontend using Module Feredation
 
-## 💪 Motivation
+## Motivation
 
 This project intend to be a simple and scalable boilerplate of a micro frontend, in it I used the [Module Federation](https://webpack.js.org/concepts/module-federation), to better understand I recommend accessing the following links:
 
@@ -10,7 +10,7 @@ This project intend to be a simple and scalable boilerplate of a micro frontend,
 
 [Webpack 5 Module Federation - Zack Jackson](https://medium.com/@ScriptedAlchemy/webpack-5-module-federation-stitching-two-simple-bundles-together-fe4e6a069716)
 
-## 🧩 Installation
+## Installation
 
 After cloning the repository, you must run the command below at the root of the project:
 
@@ -20,7 +20,7 @@ yarn install-all
 
 > You need [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/)
 
-## 🏃‍♂️Running
+## Running
 
 Run the command below to start the applications: `dashboard`, `profile` and `projects`
 
@@ -42,7 +42,7 @@ The ports of each project:
 | profile   | `3001` |
 | projects  | `3002` |
 
-## 🏗 Project structure
+## Project structure
 
 The project structure presented is just an example, here I tried to make it as simple and scalable as possible:
 
