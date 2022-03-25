@@ -1,7 +1,6 @@
 import React from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
-//Line 10&17: Button hidden in call from dashboard. Can be included within react.suspense if needed. Available in its own port.
 import Projects from "./views/projects/Projects";
 import Button from "./views/projects/Button";
 
