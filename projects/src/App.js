@@ -8,13 +8,13 @@ import Button from "./views/projects/Button";
 function App() {
   return (
     <div>
-      <h1>Projects</h1>
-      <Button>
-        {' '}
-        Projects Button
-      </Button>
       <BrowserRouter>
       <React.Suspense fallback={<LoadingModules />}>
+        <h1>Projects</h1>
+        <Button>
+          {' '}
+          Projects Button
+        </Button>
         <Switch>
           <Route path="/" exact>
             <Projects />
