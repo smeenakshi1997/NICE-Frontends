@@ -59,6 +59,7 @@ module.exports = {
       remotes: {},
       exposes: {
         "./Projects": "./src/views/projects/Projects.js",
+        "./Button": "./src/views/projects/Button.js",
       },
       shared: ["react", "react-dom", "react-router-dom"],
     }),
