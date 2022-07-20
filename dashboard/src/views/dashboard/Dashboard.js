@@ -7,7 +7,7 @@ function Loading() {
 export default function Dashboard() {
   return (
     <div>
-      <React.Suspense fallback={<Loading />}>Dashboard</React.Suspense>
+      <React.Suspense fallback={<Loading />}>Welcome Page</React.Suspense>
     </div>
   );
 }
